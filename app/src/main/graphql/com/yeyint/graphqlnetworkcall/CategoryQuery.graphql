@@ -1,0 +1,13 @@
+query CategoryLis{
+    categories{
+        id,
+        name,
+    }
+}
+query Pages{
+    blogs{
+        id,
+        title,
+
+    }
+}

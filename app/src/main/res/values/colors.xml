@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202536</color>
+    <color name="colorPrimaryDark">#161a25</color>
+    <color name="colorAccent">#1aebfd</color>
+
+    <color name="colorProgressBackground">#E0E0E0</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTintWhite">#e4e4e4</color>
+    <color name="black_transparent_overlay">#8000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="textColorPrimary">#242424</color>
+    <color name="textColorSecondary">#909090</color>
+    <color name="chat_color1">#34495E</color>
+    <color name="chat_color2">#21618C</color>
+
+    <color name="colorGreen">#1d8f2b</color>
+    <color name="border_color">#fff</color>
+    <color name="color_btn_result_selector_border">#222833</color>
+    <color name="color_btn_selector_result_border">#ececec</color>
+
+    <color name="colorPuple">#8160FF</color>
+    <color name="color_visiting_card">#2288B8</color>
+</resources>
